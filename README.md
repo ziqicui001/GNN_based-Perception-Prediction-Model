@@ -20,11 +20,12 @@ This study explores whether incorporating the spatial relationships and geometri
 
 ![model_result](assets/model_result.png "Workflow of SyncPerception")
 
-## Instruction
+## Instructions
 
 This project has tree main step: data processing, model training and explainer training.<br>
 
 Environment Configuration：<br>
+
 CUDA Version: 12.5 <br>
 Python 3.10 <br>
 opencv-python             4.10.0.84<br>
