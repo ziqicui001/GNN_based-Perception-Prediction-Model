@@ -22,7 +22,7 @@ This study explores whether incorporating the spatial relationships and geometri
 
 ## Instructions
 
-This project has tree main step: data processing, model training and explainer training.<br>
+This project has three main step: data processing, model training and explainer training.<br>
 
 Environment Configuration：<br>
 
