@@ -18,11 +18,11 @@ SyncPerception (SP) is a Grasshopper plugin for Grasshopper based on GNN model t
 
 ## Overview
 
+![model_result](assets/model_result.png "Workflow of SyncPerception")
 
 ## Instruction
 
-Put the ".gha" file inside plugin folder into your grasshoper component library.<br>
-In SyncPerception_MainCode folder, you can find the source code about the plugin development.
+This project has tree main step: data processing, model training and explainer training.
 
 ## Acknowledgements
 
