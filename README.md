@@ -22,18 +22,18 @@ This study explores whether incorporating the spatial relationships and geometri
 
 ## Instruction
 
-This project has tree main step: data processing, model training and explainer training.
+This project has tree main step: data processing, model training and explainer training.<br>
 
-Environment Configuration：
-CUDA Version: 12.5 
-Python 3.10
-opencv-python             4.10.0.84
-openpyxl                  3.1.2
-openvino                  2024.4.0
-tensorflow                2.6.0
-tensorflow-estimator      2.6.0
-torch                     2.4.0 
-torch_geometric           2.5.3
+Environment Configuration：<br>
+CUDA Version: 12.5 <br>
+Python 3.10 <br>
+opencv-python             4.10.0.84<br>
+openpyxl                  3.1.2<br>
+openvino                  2024.4.0<br>
+tensorflow                2.6.0<br>
+tensorflow-estimator      2.6.0<br>
+torch                     2.4.0<br>
+torch_geometric           2.5.3<br>
 
 ## Acknowledgements
 
