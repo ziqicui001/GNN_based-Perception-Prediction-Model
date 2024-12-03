@@ -14,7 +14,7 @@
 
 ## Introduction
 
-SyncPerception (SP) is a Grasshopper plugin for Grasshopper based on GNN model training. It can predict citizens' perception scores in six dimensions of beauty, safety, vitality, affluence, boredom, and depression in real time, simulating human visual perception of urban scenes. It proposes a dynamic method to incorporate citizens' perspectives into urban planning, providing a practical solution for promoting inclusive and people-oriented urban development.
+This study explores whether incorporating the spatial relationships and geometric features of individual street elements can enhance the accuracy and interpretability of perception prediction models. We used quantified spatial and geometric features of urban street elements as input for a graph neural network (GNN) model, a deep learning approach designed to process unstructured data. Compared to traditional methods, the GNN model achieved approximately a 6.3% on average improvement in accuracy across six perception dimensions, highlighting the importance of integrating spatial and geometric features into predictive modeling. Additionally, the study trained an explainer to analyze prediction results, enabling precise identification of critical subgraphs within images, which can determine the key edges, node combinations, and node features that significantly influence perception scores. Compared to previous approaches, this method provides more granular explanation results, offering valuable insights for urban planners to design environments that better align with public perceptions.
 
 ## Overview
 
